@@ -26,6 +26,8 @@ MERGED from [com.facebook.react:react-native:0.44.3] C:\Users\capitalhumano01\wo
 		ADDED from C:\Users\capitalhumano01\workspace\kiosko\android\app\src\main\AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from C:\Users\capitalhumano01\workspace\kiosko\android\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [kiosko:react-native-video:unspecified] C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\kiosko\react-native-video\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.1] C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.1\AndroidManifest.xml:8:5-10:41
 MERGED from [com.facebook.react:react-native:0.44.3] C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.44.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43

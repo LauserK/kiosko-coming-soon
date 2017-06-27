@@ -3,24 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-ws-3.4.1_32c93602e74a9d8fbb90d266e6ec2128f4b9433b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.4.1_d7091ba2f9712dfdff6fcba578cabbbee13b153d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -57,21 +39,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.yqritc-android-scalablevideoview-1.0.1_880d75431549d24808574bee793cc64e1a9c58a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
         <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.0.1_c051252e64a0cf7ed91b6be6f0fb4c4c34f47c77.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-3.4.1_b4c626331a5f32b843daceb8bccdb1f452aecb92.jar" />
     </item>
     <item
         is-multidex="false"
@@ -90,15 +72,6 @@
         revision="23.0.1"
         sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
         <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okio-1.9.0_e43342ec18f21998fb4ec035284be449979ed999.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\capitalhumano01\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_063a5cd90ea548941f6596ebb7be3ddb0d528dcd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,6 +102,69 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.0.1_0a8a496eb4db8d35876a63e022cfc10d7412bd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\javax.inject-1_7fbbf24a75b03089125fe3fb3ff99525da7b414b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_b2497444a586bae741982c19febc5529a4bcf256.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-ws-3.4.1_32c93602e74a9d8fbb90d266e6ec2128f4b9433b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.4.1_d7091ba2f9712dfdff6fcba578cabbbee13b153d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\okhttp-3.4.1_b4c626331a5f32b843daceb8bccdb1f452aecb92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\capitalhumano01\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_063a5cd90ea548941f6596ebb7be3ddb0d528dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -138,12 +174,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\kiosko\react-native-video\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.0.1_0a8a496eb4db8d35876a63e022cfc10d7412bd74.jar" />
+        sha1="9dc0e17e2c63aa53eda55c52d13500edc3a35587">
+        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\kiosko-react-native-video-unspecified_f5f34c9223ed9aa7fb4d00a80107813bc84098f4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -180,24 +216,6 @@
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_9ae705e163a7fda17cfac80b6d2cea2e047f6f27.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\capitalhumano01\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\javax.inject-1_7fbbf24a75b03089125fe3fb3ff99525da7b414b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\capitalhumano01\workspace\kiosko\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_b2497444a586bae741982c19febc5529a4bcf256.jar" />
     </item>
 
 </items>

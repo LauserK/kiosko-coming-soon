@@ -5,19 +5,21 @@ import VideoPlayer from 'react-native-video-controls'
 export default class App extends React.Component {
   constructor() {
     super()
+    //Seteamos el estado inicial
     this.state = {
       count: 0,
       len: 0,
       time: 5000,
       type: "image",
       load: false,
-      image: "http://10.10.2.20/kioskos/0.jpg",
-      video: "http://10.10.0.201/media/instructivos-videos/Presentacion_PASEO78.mp4",
+      image: "http://10.10.0.201/statik/0.jpg",
+      video: "",
       images: []    
     };
   }
 
   _setRecurse(response){
+    //Función para obtener los recursos desde el servidor.
     if (response.data[0].type == "video") {
       this.setState({
         video: response.data[0].video_url,
@@ -36,13 +38,12 @@ export default class App extends React.Component {
         type: "image",
         load: true
       })
-    }
-    
+    }    
   }
 
   componentWillMount() {
     var pk = 1
-    fetch(`http://10.10.2.20:3000/api/v1/get-ad/?pk=${pk}`)
+    fetch(`http://10.10.0.201/kiosko/api/v1/get-ad/?pk=${pk}`)
       .then((response) => response.json())
       .then((responseJson) => {        
         if (responseJson.data) {
@@ -59,11 +60,10 @@ export default class App extends React.Component {
     if (this.state.load) {
       // Verificamos que no este vacio la información
       if (this.state.len > 0) {
-
         //Verificamos el tipo de recurso
-
         if (this.state.type == "video") {
           // SI ES UN VIDEO LO CARGAMOS EN PANTALLA COMPLETA Y SIN CONTROLES CON LOOP INFINITO
+          //Renderizamos el componente
           return (
             <VideoPlayer
               source={{ uri: this.state.video }} 
@@ -76,12 +76,10 @@ export default class App extends React.Component {
           // Ciclo para que cada cinco segundos cambia la imagen
           setTimeout(()=> {
             let count = this.state.count + 1
-            //INtentamos obtener la imagen
+            //Intentamos obtener la imagen
             try {
               var image = this.state.images[this.state.count].file
-            } catch(err) {
-
-            }
+            } catch(err) {}
 
             if (this.state.len >= count) {
               // Si debe de seguir cambiando
@@ -94,11 +92,10 @@ export default class App extends React.Component {
           
         }
       }
-
-
     }
 
     return (
+      //Renderizamos el componente
       <Image source={{uri:this.state.image}} style={styles.backgroundImage} />
     )
   }
